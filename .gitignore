@@ -4,5 +4,4 @@ __pycache__/
 *.pyo
 *.log
 *.sqlite3
-.idea/
 .DS_Store
